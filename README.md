@@ -23,6 +23,6 @@
   <a href="https://wa.me/5512988599519?text=Ol%C3%A1+Matheus%2C+vim+do+Github%21" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"_blank"></a>
   <a href="https://www.facebook.com/matheus.schiavaoarantes/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
     
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MatheusSchiavao/MatheusSchiavao/blob/output/github-contribution-grid-snake.svg)
  
 </div>
