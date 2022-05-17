@@ -1,7 +1,7 @@
-<h1> Salve! Me chamo Matheus Arantes! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Hey! My name is Matheus Arantes! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
-- 🔥 Futuro Desenvolvedor Front-end
+- 🔥 Future Front-End Developer
 - 🔭 Faço Curso Técnico no Colégio Joseense
 
 
@@ -22,7 +22,7 @@
   <img align="center" alt="Matheus-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
  
-  ## 🌎 &nbsp;Redes Sociais
+  ## 🌎 &nbsp;Social Media
 
   <div> 
   <a href="https://instagram.com/M.schiavao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
