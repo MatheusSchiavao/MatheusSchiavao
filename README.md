@@ -2,7 +2,6 @@
 
 
 - 🔥 Future Front-End Developer
-- 🔭 Faço Curso Técnico no Colégio Joseense
 
 
 <div align="center">
