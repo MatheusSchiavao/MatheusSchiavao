@@ -1,4 +1,4 @@
-<h1> Hey! My name is Matheus Arantes! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Hey! My name is Matheus Arantes! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"></h1>
 
 
 - 🔥 Future Front-End Developer
