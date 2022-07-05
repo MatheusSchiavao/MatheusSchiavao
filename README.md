@@ -1,12 +1,11 @@
 ## 👋 Hello! Welcome to my Github profile.
-### My name is Matheus Arantes and my nickname is "M.Schiavão"!
+### My name is Matheus Arantes!
 
 
-<b>- 🔥 Future Front-End Developer
-- 🔭 I’m currently studying at Colégio Joseense
-- 🌱 I’m currently learning HTML, CSS, JS and PHP
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I started programming this year and I already fell in love with this area!</b>
+<strong>- 🔭 I’m currently studying at Colégio Joseense</strong><br>
+<strong>- 🌱 I’m currently learning HTML, CSS, JS and PHP</strong><br>
+<strong>- 😄 Pronouns: He/His</strong><br>
+<strong>- ⚡ Fun fact: I started programming this year and I already fell in love with this area!</strong>
 
 
 <div align="center">
@@ -15,14 +14,13 @@
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSchiavao&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
   
-  ## 🛠 &nbsp;Tecnologias que estudo
+  ## 🛠 &nbsp;technologies I study
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />     
+  <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />   
 </div>
  
   ## 🌎 &nbsp;Social Media
