@@ -1,7 +1,12 @@
-<h1> Hey! My name is Matheus Arantes!</h1>
+## 👋 Hello! Welcome to my Github profile.
+### My name is Matheus Arantes and my nickname is "M.Schiavão"!
 
 
-- 🔥 Future Front-End Developer
+<b>- 🔥 Future Front-End Developer
+- 🔭 I’m currently studying at Colégio Joseense
+- 🌱 I’m currently learning HTML, CSS, JS and PHP
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I started programming this year and I already fell in love with this area!</b>
 
 
 <div align="center">
@@ -25,6 +30,7 @@
   <div> 
   <a href="https://instagram.com/M.schiavao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-schiav%C3%A3o-arantes-25206a227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://codepen.io/matheusschiavao"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
     
   ![Snake animation](https://github.com/MatheusSchiavao/MatheusSchiavao/blob/output/github-contribution-grid-snake.svg)
  
