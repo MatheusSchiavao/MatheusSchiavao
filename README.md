@@ -4,7 +4,6 @@
 
 <strong>- 🔭 I’m currently studying at Colégio Joseense</strong><br>
 <strong>- 🌱 I’m currently learning HTML, CSS, JS and PHP</strong><br>
-<strong>- 😄 Pronouns: He/His</strong><br>
 <strong>- ⚡ Fun fact: I started programming this year and I already fell in love with this area!</strong>
 
 
