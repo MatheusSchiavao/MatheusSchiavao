@@ -1,24 +1,19 @@
-## 👋 Hello! Welcome to my Github profile.
-### My name is Matheus Arantes!
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Matheus%20Schiavão&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Developer%20Front%20End&descAlignY=50">
 
 <strong>- 🔭 I’m currently studying at Colégio Joseense</strong><br>
 <strong>- 🌱 I’m currently learning HTML, CSS, JS and PHP</strong><br>
-<strong>- ⚡ Fun fact: I started programming this year and I already fell in love with this area!</strong>
-
 
 <div align="center">
   <a href="https://github.com/MatheusSchiavao">
+  <a href="https://github.com/MatheusSchiavao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusSchiavao&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSchiavao&layout=compact&langs_count=7&theme=yeblu"/>
-</div>
-  
+
   ## 🛠 &nbsp;technologies I study
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Bulma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
   <img align="center" alt="Matheus-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="Matheus-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />   
