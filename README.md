@@ -29,5 +29,9 @@
   <a href="https://codepen.io/matheusschiavao"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
     
   ![Snake animation](https://github.com/MatheusSchiavao/MatheusSchiavao/blob/output/github-contribution-grid-snake.svg)
-
+</div>
+    <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusSchiavao}/count.svg" /></p> 
+<br>
 </div>
