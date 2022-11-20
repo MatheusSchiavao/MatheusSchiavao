@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Matheus%20Schiavão&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Developer%20Front%20End&descAlignY=50">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:9796f0,100:fbc7d4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Schiavãp;I'm+17+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+welcome+to+my+Github+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:9796f0,100:fbc7d4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Schiavão;I'm+17+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+welcome+to+my+Github+profile!+:%29)](https://git.io/typing-svg)
 
 <strong>- 🔭 I’m currently studying at Colégio Joseense</strong><br>
 <strong>- 🌱 I’m currently learning HTML, CSS, JS and PHP</strong><br>
