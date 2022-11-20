@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:9796f0,100:fbc7d4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Schiavão;I'm+17+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+welcome+to+my+Github+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0:9796f0,100:fbc7d4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Schiavão;I'm+17+years+old;I+from+Brazil;Be+welcome+to+my+Github+profile!+:%29)](https://git.io/typing-svg)
 
 <strong>- 🔭 I’m currently studying at Colégio Joseense</strong><br>
 <strong>- 🌱 I’m currently learning HTML, CSS, JS and PHP</strong><br>
@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusSchiavao&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
   <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSchiavao&layout=compact&langs_count=7&theme=yeblu"/>
 
-## 🛠 &nbsp;technologies I study
+## 🛠 &nbsp;Learning
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
