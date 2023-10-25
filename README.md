@@ -24,7 +24,7 @@
   <a href="https://instagram.com/schiavao_dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-schiav%C3%A3o-arantes-25206a227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://codepen.io/matheusschiavao"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://matheusschiavao.github.io/Portfolio_Matheus/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%e4234c?style=for-the-badge&logo=portfolio&logoColor=blue" target="_blank"></a>
+  <a href="https://www.schiavao.com.br" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%e4234c?style=for-the-badge&logo=portfolio&logoColor=blue" target="_blank"></a>
   </div>
     <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:e4234c,100:049ca4&height=120&section=footer"/>
